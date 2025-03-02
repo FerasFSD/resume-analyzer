@@ -55,7 +55,7 @@ def calculate_match(resume_data, job_data):
 
 # ----------------- Frontend -----------------
 st.set_page_config(page_title="AI Powered Tech-Roles-Matching Tool", layout="wide")
-st.title("AAI Powered Tech-Roles-Matching Tool 💼")
+st.title("AI Powered Tech-Roles-Matching Tool 💼")
 
 # Wir verwenden einen dynamischen Reset-Zähler, der als Teil der Keys genutzt wird
 if "reset_count" not in st.session_state:
