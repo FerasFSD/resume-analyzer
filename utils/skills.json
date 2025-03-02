@@ -1,0 +1,99 @@
+{
+    "tech_skills": {
+      "Programming": [
+        "Python", "Java", "C++", "SQL", "JavaScript", "TypeScript", "Ruby", 
+        "Go", "C#", "Rust", "PHP", "Swift", "Kotlin", "R", "Scala", "Perl"
+      ],
+      "Cloud": [
+        "AWS", "Azure", "Google Cloud Platform", "Docker", "Kubernetes", 
+        "Terraform", "Heroku", "Serverless", "AWS Lambda", "Azure Functions", 
+        "Google Cloud Functions", "OpenStack", "CloudFormation"
+      ],
+      "AI/ML": [
+        "TensorFlow", "PyTorch", "HuggingFace", "LangChain", "OpenAI", 
+        "scikit-learn", "Keras", "NLTK", "Computer Vision", "Natural Language Processing", 
+        "Generative AI", "MLOps", "Apache Spark ML", "Reinforcement Learning"
+      ],
+      "Web Development": [
+        "HTML", "CSS", "SASS/SCSS", "React", "Angular", "Vue.js", "Node.js", 
+        "Flask", "Django", "Spring Boot", "ASP.NET", "Express.js", "GraphQL", 
+        "Webpack", "Babel", "Redux", "WebSockets"
+      ],
+      "Data Science": [
+        "Pandas", "NumPy", "Matplotlib", "Seaborn", "SciPy", "Jupyter Notebook", 
+        "Apache Spark", "Hadoop", "Hive", "Tableau", "Power BI", "Apache Kafka", 
+        "Airflow", "BigQuery", "Databricks"
+      ],
+      "DevOps": [
+        "CI/CD", "Jenkins", "GitLab CI", "CircleCI", "Ansible", "Prometheus", 
+        "Grafana", "Nagios", "Helm", "Vagrant", "Puppet", "Chef", "Git", 
+        "Bitbucket", "ArgoCD", "Istio"
+      ],
+      "Cybersecurity": [
+        "Penetration Testing", "Firewalls", "Encryption", "Network Security", 
+        "Ethical Hacking", "OWASP Top 10", "SIEM", "IDS/IPS", "VPN", 
+        "Zero Trust Architecture", "CISSP", "CEH", "Metasploit", "Burp Suite"
+      ],
+      "Databases": [
+        "MySQL", "PostgreSQL", "MongoDB", "Oracle", "Redis", "Elasticsearch", 
+        "Cassandra", "DynamoDB", "Neo4j", "SQLite", "Cosmos DB", "Snowflake"
+      ],
+      "Mobile Development": [
+        "Swift", "Kotlin", "React Native", "Flutter", "Android SDK", 
+        "iOS Development", "Xamarin", "Progressive Web Apps", "Xcode", 
+        "Android Studio", "ARKit", "Core Data"
+      ],
+      "Testing": [
+        "JUnit", "Selenium", "Cypress", "Jest", "Mocha", "Chai", 
+        "Postman", "SoapUI", "Load Testing", "JMeter", "Cucumber", 
+        "TestNG", "Pytest", "SonarQube"
+      ],
+      "UI/UX": [
+        "Figma", "Sketch", "Adobe XD", "User Research", "Wireframing", 
+        "Prototyping", "Accessibility", "Material Design", "Responsive Design", 
+        "A/B Testing", "Usability Testing"
+      ],
+      "Game Development": [
+        "Unity", "Unreal Engine", "C#", "DirectX", "OpenGL", 
+        "VR Development", "AR Development", "Physics Engines"
+      ]
+    },
+    "job_keywords": [
+      "Agile", "Scrum", "Kanban", "CI/CD", "REST API", "GraphQL API", 
+      "Microservices", "DevOps", "DevSecOps", "Full-Stack", "Scalable Architecture", 
+      "Cloud-Native", "Test-Driven Development", "Behavior-Driven Development", 
+      "Continuous Integration", "Continuous Deployment", "User-Centered Design", 
+      "MVP", "SaaS", "PaaS", "IaaS", "Cross-Functional Teams", "Team Collaboration", 
+      "Problem Solving", "Critical Thinking", "Automation", "Infrastructure as Code", 
+      "Site Reliability Engineering", "Cloud Architecture", "Technical Documentation", 
+      "Code Review", "Pair Programming", "Mentorship", "Performance Optimization", 
+      "Load Balancing", "Disaster Recovery", "Data Governance", "Compliance", 
+      "GDPR", "HIPAA", "Machine Learning Engineering", "Data Pipeline", 
+      "Feature Engineering", "Model Deployment", "Edge Computing", "IoT", 
+      "Blockchain", "Web3", "Quantum Computing", "Digital Transformation", 
+      "KPI Monitoring", "Root Cause Analysis", "Incident Response"
+    ],
+    "certifications": [
+      "AWS Certified Solutions Architect", 
+      "Microsoft Certified: Azure Administrator", 
+      "Google Professional Cloud Architect", 
+      "CISSP", 
+      "CEH", 
+      "CompTIA Security+", 
+      "Certified Kubernetes Administrator", 
+      "PMI-ACP", 
+      "Scrum Master Certification", 
+      "TensorFlow Developer Certificate"
+    ],
+    "soft_skills": [
+      "Leadership", 
+      "Project Management", 
+      "Stakeholder Communication", 
+      "Technical Writing", 
+      "Public Speaking", 
+      "Time Management", 
+      "Conflict Resolution", 
+      "Adaptability", 
+      "Creative Problem Solving"
+    ]
+  }
