@@ -54,7 +54,7 @@ def calculate_match(resume_data, job_data):
     return (matched / total_required * 100) if total_required > 0 else 0
 
 # ----------------- Frontend -----------------
-st.set_page_config(page_title="AI Job Matching Tool", layout="wide")
+st.set_page_config(page_title="AI Powered Tech-Roles-Matching Tool", layout="wide")
 st.title("AI Job Matching Tool 💼")
 
 # Wir verwenden einen dynamischen Reset-Zähler, der als Teil der Keys genutzt wird
